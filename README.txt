@@ -1,1 +1,0 @@
-NxtGen Learning v4.1 - Polished dropdowns and footer. Sample pages and generic PDF links included. Replace links/content as needed.
